@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F3C8253C-A5D8-42DC-9B13-F79A3D50464A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Granja PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Granja/Program.cs">
+    <Files>
+      <File FileName="Granja/Program.cs" Line="55" Column="2" />
+      <File FileName="Granja/Campesino.cs" Line="10" Column="9" />
+      <File FileName="Granja/Producto.cs" Line="17" Column="1" />
+      <File FileName="Granja/Venta.cs" Line="10" Column="2" />
+      <File FileName="Granja/Cultivo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Granja" expanded="True">
+            <Node name="Granja" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
